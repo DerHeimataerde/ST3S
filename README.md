@@ -1,5 +1,6 @@
 # ST3S
 Speech-To-Text-To-Speech
+Turns your voice to text then back to speech
 
 ## Usage:
 You will be prompted to: select a hotkey, select a TTS voice, Word Rate, Input Device, Output Device.
